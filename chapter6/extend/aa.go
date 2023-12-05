@@ -17,6 +17,4 @@ func main() {
 		又因为w的动态类型是 *os.File，所以打印的是*os.File
 	*/
 
-	fmt.Printf()
-
 }
