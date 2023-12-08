@@ -6,7 +6,6 @@ func main() {
 
 	//这种类型需要初始化才能使用
 	type NewV[T any] []T
-	var v NewV[int]
 
 }
 
